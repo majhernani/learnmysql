@@ -6,3 +6,4 @@
 `
 select * from table
 `
+## Where Clause
